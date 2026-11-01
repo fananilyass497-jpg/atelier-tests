@@ -1,14 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1793533181324" clover="3.2.0">
-  <project timestamp="1793533181324" name="All files">
-    <metrics statements="5" coveredstatements="5" conditionals="2" coveredconditionals="2" methods="2" coveredmethods="2" elements="9" coveredelements="9" complexity="0" loc="5" ncloc="5" packages="1" files="1" classes="1"/>
+<coverage generated="1793533423994" clover="3.2.0">
+  <project timestamp="1793533423994" name="All files">
+    <metrics statements="14" coveredstatements="13" conditionals="4" coveredconditionals="4" methods="4" coveredmethods="3" elements="22" coveredelements="20" complexity="0" loc="14" ncloc="14" packages="1" files="3" classes="3"/>
+    <file name="commande.js" path="C:\Users\ilyas\atelier-tests\src\commande.js">
+      <metrics statements="7" coveredstatements="7" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="2" count="1" type="stmt"/>
+      <line num="5" count="2" type="cond" truecount="2" falsecount="0"/>
+      <line num="7" count="1" type="stmt"/>
+      <line num="8" count="1" type="stmt"/>
+      <line num="9" count="1" type="stmt"/>
+      <line num="12" count="1" type="stmt"/>
+    </file>
+    <file name="mailer.js" path="C:\Users\ilyas\atelier-tests\src\mailer.js">
+      <metrics statements="2" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="2" count="0" type="stmt"/>
+    </file>
     <file name="panier.js" path="C:\Users\ilyas\atelier-tests\src\panier.js">
       <metrics statements="5" coveredstatements="5" conditionals="2" coveredconditionals="2" methods="2" coveredmethods="2"/>
-      <line num="1" count="1" type="stmt"/>
-      <line num="2" count="4" type="stmt"/>
-      <line num="3" count="5" type="cond" truecount="2" falsecount="0"/>
-      <line num="4" count="4" type="stmt"/>
-      <line num="7" count="1" type="stmt"/>
+      <line num="1" count="2" type="stmt"/>
+      <line num="2" count="5" type="stmt"/>
+      <line num="3" count="7" type="cond" truecount="2" falsecount="0"/>
+      <line num="4" count="6" type="stmt"/>
+      <line num="7" count="2" type="stmt"/>
     </file>
   </project>
 </coverage>
